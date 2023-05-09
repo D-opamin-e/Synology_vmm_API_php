@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<vm_list><virtualmachine><guest_name></guest_name><vcpu_num></vcpu_num><vram_size></vram_size><status></status></virtualmachine><virtualmachine><guest_name></guest_name><vcpu_num>6</vcpu_num><vram_size></vram_size><status></status></virtualmachine></vm_list>
