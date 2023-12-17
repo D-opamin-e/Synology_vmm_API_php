@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 // 데이터베이스 연결
 $conn = mysqli_connect('localhost', 'root', 'DB_PW', 'DB_table');
 
