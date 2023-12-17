@@ -13,17 +13,3 @@ admin.php -> admin 페이지입니다.
              본 페이지에서는 생성이 되어있는 VMM의 리스트를 볼 수 있으며, 이름, 할당된 코어 개수, 할당된 램, 현재 상태를 조회할 수 있습니다.
              SimpleXML 모듈을 사용했습니다.
              
-===================ENG==================
-             
-index.php -> You can specify the name or boot, shut down, or force shutdown of the virtual machine that you want to work with Synology VMM.
-              If) there is no session, login.Go to php.
-
-login.php -> ID, PW, and check in DB.
-            If admin is 1, go to ==> admin.php; if admin is 0, go to ==> index.php.
-
-Work.php -> Processing page.
-            The SID value that changes every time is requested to the Synology VMM API to obtain it, and work.php processes it with the imported SID value.
-
-admin.php -> admin page.
-              Use this page to view a list of VMMs that have been created, and to view the name, number of cores assigned, assigned RAM, and current status.
-              SimpleXML module used.
