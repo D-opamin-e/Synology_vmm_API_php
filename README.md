@@ -1,4 +1,5 @@
-# Synology_vmm_API_php
+# Synology_vmm_API_php-허상재
+2023-12-17_중간 제작 과정
 
 index.php -> Synology VMM에서 작업을 진행할 가상머신의 이름 혹은 부팅, 종료, 강제종료를 지정할 수 있습니다.
             만약) 세션이 없는 경우 login.php로 이동합니다.
